@@ -2,7 +2,7 @@
 An exploration of various css properties from beginner to intermediate level concepts.
 
 ## Table of Contents
-- [Introduction](#usage)
+- [Introduction](#introduction)
 - [Installation](#installation)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
