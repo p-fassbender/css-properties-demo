@@ -35,7 +35,7 @@ This project is focused on learning and understanding many different css propert
 
 2. Open the Files in Your Browser:
     - Once the files are downloaded or cloned, open the folder containing the project files.
-    - Double-click the index.html file (or the main HTML file for your project).
+    - Double-click the index.html file.
     - The page will open in your default web browser, and you can start using it immediately.
 
 ## Acknowledgments
