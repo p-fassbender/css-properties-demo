@@ -4,8 +4,8 @@ An exploration of various css properties from beginner to intermediate level con
 ## Table of Contents
 - [Introduction](#usage)
 - [Installation](#installation)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ## Introduction
 This project is focused on learning and understanding many different css properties and concepts. Topics covered include:
